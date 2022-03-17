@@ -11,7 +11,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 -   [My process](#my-process)
     -   [Built with](#built-with)
--   [Useful resources]
+-   [Useful resources](#useful-resources)
 
 ### The challenge
 
@@ -20,7 +20,7 @@ Users should be able to:
 -   View the optimal layout depending on their device's screen size
 -   See hover states for interactive elements
 
-### Screenshot
+### Screenshots
 
 ![Screenshot PC](images/screenshot-pc.png "screenshot")
 ![Screenshot Mobile](images/screenshot-mobile.png "screenshot")
@@ -34,4 +34,4 @@ Users should be able to:
 
 ### Useful resources
 
--   [Example resource 1](https://developer.mozilla.org/en-US/docs/Web/CSS) - Reference for CSS, very comprehensive and concise.
+-   [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/CSS) - Reference for CSS, very comprehensive and concise.
